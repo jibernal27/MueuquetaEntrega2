@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Muequetá</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoBotonHechos">¿Qué paso aquí?</string>
+    <string name="lugares">Lugares</string>
+    <string name="title_activity_captura_multimedia">Capturar Multimedia</string>
+    <string name="txtDescripcionEnvio">Descripción del envio</string>
+    <string name="hechos">Hechos</string>
+</resources>
